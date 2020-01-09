@@ -1,2 +1,2 @@
 # HowTo
-Useful commands and tricks that you are going to forget
+Useful commands and tricks that you are going to forget. 
