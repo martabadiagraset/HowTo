@@ -1,0 +1,10 @@
+#On the bash command line: 
+
+#Know how much space is a folder using: 
+
+du -sh "name of the folder"
+
+#Find where are files with a specific file extension:
+#This will generate a file "fastq_location.txt" with the paths of all the files having the specified extension. 
+
+find . -type f -name "*.fastq" > fastq_location.txt
